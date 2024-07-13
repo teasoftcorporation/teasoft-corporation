@@ -185,7 +185,7 @@ sections:
         actions:
           - type: Button
             label: Photo Editor
-            url: /
+            url: 'https://www.teasoft.in/misc-tool/photo-editor'
             size: medium
             variant: text
             color: primary
