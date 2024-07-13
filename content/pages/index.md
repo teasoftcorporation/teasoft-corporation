@@ -69,10 +69,11 @@ sections:
           url: /images/2.jpg
           altText: Second item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Boost Your Writing Efficiency with Teasoft Paragraph Generator.
+          Welcome to Teasoft Paragraph Generator, your go-to tool for creating
+          high-quality paragraphs with just a few clicks. Whether you're writing
+          an essay, a blog post, or any other content, our Paragraph Generator
+          helps you generate well-structured and coherent text effortlessly.
         actions:
           - type: Button
             label: Read the Docs
