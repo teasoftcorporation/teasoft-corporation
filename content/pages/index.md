@@ -26,7 +26,7 @@ sections:
                                           
     actions:
       - type: Button
-        label: Start Building
+        label: Create a website for free
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
