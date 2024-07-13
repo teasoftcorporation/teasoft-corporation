@@ -40,7 +40,7 @@ sections:
     image:
       type: Image
       url: /images/FB.jpg
-      altText: Hero section image
+      altText: teasoft.in
   - type: CardsSection
     title: Everything is 100% FREE and user-friendly!
     subtitle: ''
