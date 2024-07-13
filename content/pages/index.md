@@ -127,7 +127,7 @@ sections:
           altText: Image Tool
         actions:
           - type: Button
-            label: Learn More
+            label: Image Tool
             url: /
             size: medium
             variant: text
