@@ -12,7 +12,7 @@
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "Website Builder",
                 "url": "/about",
                 "underline": "hover"
             },
