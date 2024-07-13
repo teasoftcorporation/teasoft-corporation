@@ -160,7 +160,7 @@ sections:
         image:
           type: Image
           url: /images/7.jpg
-          altText: Item image
+          altText: Logo Maker
         actions:
           - type: Button
             label: Learn More
