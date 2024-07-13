@@ -96,10 +96,12 @@ sections:
             url: 'https://www.teasoft.in/convert-case'
       - type: Card
         title: PDF Converter
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Seamlessly Convert Documents with Teasoft PDF Converter. Welcome to
+          Teasoft PDF Converter, your reliable solution for converting documents
+          to and from PDF format. Whether you need to convert Word documents,
+          images, or other file types to PDF, or transform PDFs back into
+          editable formats, our tool makes the process seamless and efficient.
         image:
           type: Image
           url: /images/4.jpg
