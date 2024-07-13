@@ -39,7 +39,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/FB.jpg
       altText: Hero section image
   - type: CardsSection
     title: Everything is 100% FREE and user-friendly!
