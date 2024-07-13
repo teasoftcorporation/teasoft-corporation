@@ -92,6 +92,6 @@ sections:
           Converter simplifies the process, making it quick and efficient.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Convert Case
             url: 'https://docs.netlify.com/visual-editor/overview/'
 ---
