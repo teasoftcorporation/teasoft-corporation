@@ -93,5 +93,5 @@ sections:
         actions:
           - type: Button
             label: Convert Case
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://www.teasoft.in/convert-case'
 ---
