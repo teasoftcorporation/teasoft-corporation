@@ -184,7 +184,7 @@ sections:
           altText: Photo Editor
         actions:
           - type: Button
-            label: Learn More
+            label: Photo Editor
             url: /
             size: medium
             variant: text
