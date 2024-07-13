@@ -172,10 +172,12 @@ sections:
             color: primary
       - type: Card
         title: Photo Editor
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Edit Your Photos Like a Pro with Teasoft Free Online Photo Editor.
+          Welcome to Teasoft Free Online Photo Editor, your all-in-one solution
+          for effortless image editing. Whether you're looking to resize, crop,
+          flip, or apply filters, our intuitive tool provides everything you
+          need to enhance your photos with ease.
         image:
           type: Image
           url: /images/8.jpg
