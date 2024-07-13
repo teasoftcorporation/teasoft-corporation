@@ -77,7 +77,7 @@ sections:
         actions:
           - type: Button
             label: Paragraph Generator
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://www.teasoft.in/misc-tool/paragraph-generator'
       - type: Card
         title: Third Card Title
         image:
