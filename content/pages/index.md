@@ -179,7 +179,7 @@ sections:
         image:
           type: Image
           url: /images/8.jpg
-          altText: Item image
+          altText: Photo Editor
         actions:
           - type: Button
             label: Learn More
