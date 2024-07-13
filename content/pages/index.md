@@ -63,7 +63,7 @@ sections:
             label: Website Builder
             url: 'https://www.teasoft.in/misc-tool/website-builder'
       - type: Card
-        title: Second Card Title
+        title: Paragraph Generator
         image:
           type: Image
           url: /images/2.jpg
