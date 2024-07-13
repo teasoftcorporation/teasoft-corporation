@@ -122,7 +122,7 @@ sections:
         image:
           type: Image
           url: /images/5.jpg
-          altText: Item image
+          altText: Image Tool
         actions:
           - type: Button
             label: Learn More
