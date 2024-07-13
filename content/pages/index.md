@@ -67,7 +67,7 @@ sections:
         image:
           type: Image
           url: /images/2.jpg
-          altText: Second item image
+          altText: Paragraph Generator
         text: >
           Boost Your Writing Efficiency with Teasoft Paragraph Generator.
           Welcome to Teasoft Paragraph Generator, your go-to tool for creating
