@@ -21,6 +21,13 @@
                 "label": "Paragraph Generator",
                 "url": "https://www.teasoft.in/misc-tool/paragraph-generator",
                 "underline": "hover"
+            },
+            {
+                "type": "Link",
+                "label": "Convert Case",
+                "url": "https://www.teasoft.in/convert-case",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     },
