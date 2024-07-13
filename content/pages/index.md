@@ -46,7 +46,7 @@ sections:
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: First Card Title
+        title: Website Builder
         image:
           type: Image
           url: /images/1.jpg
