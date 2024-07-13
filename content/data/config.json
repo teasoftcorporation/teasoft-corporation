@@ -86,6 +86,13 @@
                 "label": "Logo Maker",
                 "underline": "hover",
                 "url": "https://www.teasoft.in/misc-tool/logo-maker"
+            },
+            {
+                "type": "Link",
+                "label": "Photo Editor",
+                "url": "https://www.teasoft.in/misc-tool/photo-editor",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     }
