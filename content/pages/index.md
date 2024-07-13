@@ -50,7 +50,7 @@ sections:
         image:
           type: Image
           url: /images/1.jpg
-          altText: First item image
+          altText: Website Builder
         text: >
           Create Stunning Websites Effortlessly with Teasoft Free Website
           Builder. Welcome to Teasoft Free Website Builder, your ultimate
