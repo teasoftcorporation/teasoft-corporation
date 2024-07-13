@@ -49,6 +49,13 @@
                 "url": "https://www.teasoft.in/formatter",
                 "underline": "always",
                 "color": "primary"
+            },
+            {
+                "type": "Link",
+                "label": "Logo Maker",
+                "url": "https://www.teasoft.in/misc-tool/logo-maker",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     },
