@@ -166,7 +166,7 @@ sections:
         actions:
           - type: Button
             label: Logo Maker
-            url: /
+            url: 'https://www.teasoft.in/misc-tool/logo-maker'
             size: medium
             variant: text
             color: primary
