@@ -153,10 +153,12 @@ sections:
             color: primary
       - type: Card
         title: Logo Maker
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Design Professional Logos Instantly with Teasoft Logo Maker. Welcome
+          to Teasoft Logo Maker, the perfect tool for creating unique and
+          professional logos effortlessly. Whether you're launching a new
+          business or rebranding an existing one, our Logo Maker helps you
+          design stunning logos with just a few clicks.
         image:
           type: Image
           url: /images/7.jpg
