@@ -134,10 +134,12 @@ sections:
             color: primary
       - type: Card
         title: Code Formatter
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Beautify and Optimize Your Code with Teasoft Formatter Tool. Welcome
+          to Teasoft Formatter, the ultimate tool for beautifying and optimizing
+          your code and text formats. Whether you’re working with HTML, CSS,
+          JSON, XML, or SQL, our Formatter tool makes it easy to tidy up your
+          code and ensure it’s clean, readable, and error-free.
         image:
           type: Image
           url: /images/6.jpg
