@@ -83,7 +83,7 @@ sections:
         image:
           type: Image
           url: /images/3.jpg
-          altText: Third item image
+          altText: Convert Case
         text: >
           Simplify Text Formatting with Teasoft Case Converter. Welcome to
           Teasoft Case Converter, the ultimate tool for transforming text into
