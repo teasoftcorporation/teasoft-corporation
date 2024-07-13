@@ -79,7 +79,7 @@ sections:
             label: Paragraph Generator
             url: 'https://www.teasoft.in/misc-tool/paragraph-generator'
       - type: Card
-        title: Third Card Title
+        title: Convert Case
         image:
           type: Image
           url: /images/3.jpg
