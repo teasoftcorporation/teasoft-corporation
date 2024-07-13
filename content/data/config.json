@@ -28,6 +28,13 @@
                 "url": "https://www.teasoft.in/convert-case",
                 "underline": "always",
                 "color": "primary"
+            },
+            {
+                "type": "Link",
+                "label": "PDF Converter",
+                "url": "https://www.teasoft.in/pdf",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     },
