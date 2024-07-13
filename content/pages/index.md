@@ -43,7 +43,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: Everything is 100% FREE and user-friendly!
-    subtitle: Section subtitle here
+    subtitle: ''
     items:
       - type: Card
         title: Website Builder
