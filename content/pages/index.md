@@ -146,7 +146,7 @@ sections:
           altText: Code Formatter
         actions:
           - type: Button
-            label: Learn More
+            label: Code Formatter
             url: /
             size: medium
             variant: text
