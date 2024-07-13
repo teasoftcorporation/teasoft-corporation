@@ -27,7 +27,7 @@ sections:
     actions:
       - type: Button
         label: Create a website for free
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: 'https://www.teasoft.in/misc-tool/website-builder'
         size: large
         variant: contained
         color: primary
