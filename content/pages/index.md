@@ -95,7 +95,7 @@ sections:
             label: Convert Case
             url: 'https://www.teasoft.in/convert-case'
       - type: Card
-        title: Item Title
+        title: PDF Converter
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
