@@ -109,7 +109,7 @@ sections:
         actions:
           - type: Button
             label: PDF Converter
-            url: /
+            url: 'https://www.teasoft.in/pdf'
             size: medium
             variant: text
             color: primary
