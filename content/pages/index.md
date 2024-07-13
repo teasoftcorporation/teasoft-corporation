@@ -103,7 +103,7 @@ sections:
         image:
           type: Image
           url: /images/4.jpg
-          altText: Item image
+          altText: PDF Converter
         actions:
           - type: Button
             label: Learn More
