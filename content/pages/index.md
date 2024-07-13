@@ -4,7 +4,9 @@ type: Page
 sections:
   - type: HeroSection
     title: Hero Title
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: >-
+      Create dynamic websites, generate text, transform formats, convert images,
+      and enhance code with our free, high-quality tools.
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
