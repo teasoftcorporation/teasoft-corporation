@@ -108,7 +108,7 @@ sections:
           altText: PDF Converter
         actions:
           - type: Button
-            label: Learn More
+            label: PDF Converter
             url: /
             size: medium
             variant: text
