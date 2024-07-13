@@ -141,7 +141,7 @@ sections:
         image:
           type: Image
           url: /images/6.jpg
-          altText: Item image
+          altText: Code Formatter
         actions:
           - type: Button
             label: Learn More
