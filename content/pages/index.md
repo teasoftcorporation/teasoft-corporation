@@ -33,7 +33,7 @@ sections:
         color: primary
       - type: Button
         label: Free Online Photo Editor
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        url: 'https://www.teasoft.in/misc-tool/photo-editor'
         size: large
         variant: outlined
         color: primary
