@@ -8,9 +8,22 @@ sections:
       Create dynamic websites, generate text, transform formats, convert images,
       and enhance code with our free, high-quality tools.
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      Everything is 100% FREE and user-friendly! Build your website with free
+      templates and our [website
+      builder](https://www.teasoft.in/misc-tool/website-builder). Easily
+      [convert text cases](https://www.teasoft.in/convert-case), [compress
+      JPGs](https://www.teasoft.in/image-tool/compress-jpg), and [convert
+      images](https://www.teasoft.in/image-tool) between JPG, PNG, and WebP
+      formats. Use our tools to [convert images to
+      PDF](https://www.teasoft.in/pdf), [format HTML, CSS, SQL, JSON, and
+      XML](https://www.teasoft.in/formatter). Generate [demo
+      text](https://www.teasoft.in/misc-tool/paragraph-generator),
+      [paragraphs](https://www.teasoft.in/misc-tool/paragraph-generator), and
+      [Lipsum](https://www.teasoft.in/misc-tool/paragraph-generator)
+      effortlessly. Create your website quickly with our [HTML website
+      builder](https://www.teasoft.in/misc-tool/website-builder) in just a few
+      clicks.
+                                          
     actions:
       - type: Button
         label: Start Building
