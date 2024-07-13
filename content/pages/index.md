@@ -165,7 +165,7 @@ sections:
           altText: Logo Maker
         actions:
           - type: Button
-            label: Learn More
+            label: Logo Maker
             url: /
             size: medium
             variant: text
