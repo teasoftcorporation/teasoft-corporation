@@ -115,10 +115,12 @@ sections:
             color: primary
       - type: Card
         title: Image Tool
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Optimize and Enhance Your Images with Teasoft Image Tool. Welcome to
+          Teasoft Image Tool, your comprehensive solution for all your image
+          processing needs. Whether you need to resize, compress, convert, or
+          enhance images, our versatile toolset provides everything you need to
+          manage and optimize your images efficiently.
         image:
           type: Image
           url: /images/5.jpg
