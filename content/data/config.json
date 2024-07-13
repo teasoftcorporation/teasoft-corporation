@@ -42,6 +42,13 @@
                 "url": "https://www.teasoft.in/image-tool",
                 "underline": "always",
                 "color": "primary"
+            },
+            {
+                "type": "Link",
+                "label": "Code Formatter",
+                "url": "https://www.teasoft.in/formatter",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     },
