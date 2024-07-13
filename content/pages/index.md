@@ -61,7 +61,7 @@ sections:
         actions:
           - type: Button
             label: Website Builder
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://www.teasoft.in/misc-tool/website-builder'
       - type: Card
         title: Second Card Title
         image:
