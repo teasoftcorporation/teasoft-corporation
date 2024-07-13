@@ -147,7 +147,7 @@ sections:
         actions:
           - type: Button
             label: Code Formatter
-            url: /
+            url: 'https://www.teasoft.in/formatter'
             size: medium
             variant: text
             color: primary
