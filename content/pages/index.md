@@ -60,7 +60,7 @@ sections:
           stunning websites without any coding knowledge.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Website Builder
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Second Card Title
