@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Hero Title
+    title: A website builder designed for everyone.
     subtitle: >-
       Create dynamic websites, generate text, transform formats, convert images,
       and enhance code with our free, high-quality tools.
