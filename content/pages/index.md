@@ -85,10 +85,11 @@ sections:
           url: /images/3.jpg
           altText: Third item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Simplify Text Formatting with Teasoft Case Converter. Welcome to
+          Teasoft Case Converter, the ultimate tool for transforming text into
+          various cases with ease. Whether you need to convert text to
+          uppercase, lowercase, title case, or any other format, our Case
+          Converter simplifies the process, making it quick and efficient.
         actions:
           - type: Button
             label: Read the Docs
