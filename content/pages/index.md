@@ -76,7 +76,7 @@ sections:
           helps you generate well-structured and coherent text effortlessly.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Paragraph Generator
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Third Card Title
