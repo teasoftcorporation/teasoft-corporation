@@ -128,7 +128,7 @@ sections:
         actions:
           - type: Button
             label: Image Tool
-            url: /
+            url: 'https://www.teasoft.in/image-tool'
             size: medium
             variant: text
             color: primary
