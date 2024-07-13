@@ -52,10 +52,12 @@ sections:
           url: /images/1.jpg
           altText: First item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Create Stunning Websites Effortlessly with Teasoft Free Website
+          Builder. Welcome to Teasoft Free Website Builder, your ultimate
+          solution for creating dynamic and professional websites with ease.
+          Whether you're a seasoned developer or a beginner, our intuitive
+          platform offers a variety of templates and tools to help you build
+          stunning websites without any coding knowledge.
         actions:
           - type: Button
             label: Read the Docs
